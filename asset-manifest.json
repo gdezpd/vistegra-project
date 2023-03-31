@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vistegra-project/static/css/main.0534587a.css",
+    "main.js": "/vistegra-project/static/js/main.825540d5.js",
+    "static/js/787.88468894.chunk.js": "/vistegra-project/static/js/787.88468894.chunk.js",
+    "index.html": "/vistegra-project/index.html",
+    "main.0534587a.css.map": "/vistegra-project/static/css/main.0534587a.css.map",
+    "main.825540d5.js.map": "/vistegra-project/static/js/main.825540d5.js.map",
+    "787.88468894.chunk.js.map": "/vistegra-project/static/js/787.88468894.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0534587a.css",
+    "static/js/main.825540d5.js"
+  ]
+}
