@@ -1,0 +1,13 @@
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.containerMenu  {
+    list-style-type: none;
+    padding: 0 10px;
+    &:hover {
+         cursor: pointer;
+    }
+}
